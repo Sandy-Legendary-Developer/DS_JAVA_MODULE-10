@@ -1,6 +1,7 @@
 # Ex22 Searching for a Book ID in a Binary Search Tree (BST)
 ## AIM:
 To design and implement java program that constructs a Binary Search Tree (BST) using given Book IDs and checks whether a specific Book ID exists in the BST.
+## DATE: 18-08-2026
 ## Algorithm
 1. Start the program.
 2. Define a Node class to represent each node in the BST with attributes `data`, `left`, and `right`.
